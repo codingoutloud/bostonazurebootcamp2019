@@ -9,6 +9,7 @@
 * Event Grid bindings for Functions - [https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-grid]
 * Event Grid sources - [https://docs.microsoft.com/en-us/azure/event-grid/event-sources], [https://docs.microsoft.com/en-us/azure/event-grid/delivery-and-retry], [https://docs.microsoft.com/en-us/azure/event-grid/event-schema-resource-groups]
 * Azure Activity Log - [https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-logs-overview#export-the-activity-log-with-log-profiles] - “The Activity Log does not include read (GET) operations or operations for resources that use the Classic/"RDFE" model.”
+* Azure Function - Fails 75% of the time - [https://gist.github.com/codingoutloud/151976063b1e9367369f1505f6cca66e]
 
 ## Tool docs
 
