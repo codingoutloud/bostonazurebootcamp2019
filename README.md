@@ -14,4 +14,4 @@
 
 ## Tool docs
 
-8. Azure Storage Explorer - [https://docs.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer?tabs=macos]
+* Azure Storage Explorer - [https://docs.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer?tabs=macos]
